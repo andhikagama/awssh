@@ -1,0 +1,11 @@
+{
+    "debug": true,
+    "aws" : {
+        "access_id" : "my-access-id",
+        "secret_key" : "my-secret-key",
+        "region" : "aws-region",
+        "tag_name" : "my-custom-tag-name",
+        "pem": "/Path/to/Your/AWS/key.pem"
+    },
+    "ssh_user" : "ubuntu"
+}
