@@ -34,7 +34,7 @@ $ export PATH=$PATH:$(go env GOPATH)/bin
 Only works on macOS
 
 ### iTerm2
-By default `izyssh` will launch macOS default Terminal app. In order to set iTerm2 as default terminal, you must first install [`duti`](http://duti.org/documentation.html).
+By default `awssh` will launch macOS default Terminal app. In order to set iTerm2 as default terminal, you must first install [`duti`](http://duti.org/documentation.html).
 
 ```bash
 $ brew install duti
