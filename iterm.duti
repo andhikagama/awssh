@@ -1,0 +1,7 @@
+# Set iTerm as default application for command file
+# To run this file, download `duti` first:
+# brew install duti
+#
+# bundle id             UTI		    role
+
+com.googlecode.iterm2	.command	all
